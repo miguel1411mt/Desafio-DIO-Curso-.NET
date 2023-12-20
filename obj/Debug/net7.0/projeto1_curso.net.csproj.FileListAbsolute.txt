@@ -1,0 +1,14 @@
+C:\projeto1_curso.net\bin\Debug\net7.0\projeto1_curso.net.exe
+C:\projeto1_curso.net\bin\Debug\net7.0\projeto1_curso.net.deps.json
+C:\projeto1_curso.net\bin\Debug\net7.0\projeto1_curso.net.runtimeconfig.json
+C:\projeto1_curso.net\bin\Debug\net7.0\projeto1_curso.net.dll
+C:\projeto1_curso.net\bin\Debug\net7.0\projeto1_curso.net.pdb
+C:\projeto1_curso.net\obj\Debug\net7.0\projeto1_curso.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto1_curso.net\obj\Debug\net7.0\projeto1_curso.net.AssemblyInfoInputs.cache
+C:\projeto1_curso.net\obj\Debug\net7.0\projeto1_curso.net.AssemblyInfo.cs
+C:\projeto1_curso.net\obj\Debug\net7.0\projeto1_curso.net.csproj.CoreCompileInputs.cache
+C:\projeto1_curso.net\obj\Debug\net7.0\projeto1_curso.net.dll
+C:\projeto1_curso.net\obj\Debug\net7.0\refint\projeto1_curso.net.dll
+C:\projeto1_curso.net\obj\Debug\net7.0\projeto1_curso.net.pdb
+C:\projeto1_curso.net\obj\Debug\net7.0\projeto1_curso.net.genruntimeconfig.cache
+C:\projeto1_curso.net\obj\Debug\net7.0\ref\projeto1_curso.net.dll
